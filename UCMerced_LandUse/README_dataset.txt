@@ -1,0 +1,1 @@
+Una volta scaricato il dataset UCMerced_LandUse inserire il suo contenuto qui dentro
