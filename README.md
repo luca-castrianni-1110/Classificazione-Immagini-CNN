@@ -2,7 +2,7 @@
 Sviluppo e confronto di architetture CNN in Keras (da zero e Transfer Learning) per la classificazione di immagini aeree.
 
 
-## ⚙️ Guida all'Utilizzo
+## Guida all'Utilizzo
 
 **Configurazione Iniziale:** 
 Prima di procedere, assicurarsi di estrarre e posizionare tutti i file scaricati all'interno di un'unica cartella principale.
